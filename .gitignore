@@ -1,0 +1,29 @@
+###SublimeText###
+*.cache
+Package Control.sublime-settings
+
+# SublimeText project files
+/*.sublime-project
+*.sublime-workspace
+sftp-config*.json
+
+Backup/
+/node_modules/
+/lib/
+lib-cov
+.urturn/*
+*/.urturn/*
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.expression
+
+pids
+logs
+results
+
+npm-debug.log
